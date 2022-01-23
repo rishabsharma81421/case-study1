@@ -1,5 +1,7 @@
 this is main file
 update in dev branch
+<<<<<<< HEAD
 f1 is added
+=======
 f2 is added
-
+>>>>>>> f2
